@@ -2,13 +2,13 @@ main{
     margin-top: 100px;
 }
 
-img{
+.logo-img{
     margin-top: 100px;
     display: block;
     width: 300px;
 }
 
-input{
+.search-input{
     display: block;
     width: 400px;
 }
